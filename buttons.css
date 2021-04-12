@@ -1,0 +1,22 @@
+#container {
+	height: 600px;
+	width: 600px;
+	padding: 15px;
+	margin: 0 auto;
+	border: solid gray 5px;
+}
+
+button {
+	background-color: lightgreen;
+}
+
+#img1 {
+    float: right;
+    margin-top: 450px;
+    width: 100px;
+}
+
+#img2 {
+	float: right;
+	width: 400px;
+}
